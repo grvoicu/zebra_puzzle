@@ -1,2 +1,2 @@
 # zebra_puzzle
-Zebra puzzle solver using google or-tools
+[Zebra logic puzzle](https://en.wikipedia.org/wiki/Zebra_Puzzle) solver using Google combinatorial optimization [or-tools](https://developers.google.com/optimization/).
